@@ -4,7 +4,7 @@ print most unicode characters and names
 Send the output to a file for inspection with:
 
 ```
-$ python3 print_valid.unicodes.py > out.txt
+$ python3 print_valid_unicodes.py > out.txt
 
 $ wc -l out.txt 
 41898 out.txt
