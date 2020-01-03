@@ -23,7 +23,6 @@ $ grep -C 5 'BICEP' out.txt
 💯 128175 HUNDRED POINTS SYMBOL
 ```
 
-
 Output will look something like this:
 
 ![output sample screenshot](output_sample_screenshot.png)
