@@ -6,10 +6,10 @@ Send the output to a file for inspection with:
 ```
 $ python3 print_valid_unicodes.py > out.txt
 
-$ wc -l out.txt 
+$ wc -l out.txt
 41898 out.txt
 
-$ grep -C 5 'BICEP' out.txt 
+$ grep -C 5 'BICEP' out.txt
 💥 128165 COLLISION SYMBOL
 💦 128166 SPLASHING SWEAT SYMBOL
 💧 128167 DROPLET
@@ -23,6 +23,6 @@ $ grep -C 5 'BICEP' out.txt
 💯 128175 HUNDRED POINTS SYMBOL
 ```
 
-Output will look something like this:
+If you have the proper font representations installed, output will look something like this:
 
 ![output sample screenshot](output_sample_screenshot.png)
